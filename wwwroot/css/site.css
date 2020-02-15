@@ -17,6 +17,10 @@ body {
     padding-right: 15px;
 }
 */
+body {
+    color: #f8f9fa;
+    background-color: #1d2124;
+}
 /* 
     Disabled due to Bootstrap 4.4.1 Update ( codelyfe.github.io )
     Carousel 
@@ -39,13 +43,14 @@ body {
 /* 
     Disabled due to Bootstrap 4.4.1 Update ( codelyfe.github.io )
     Hide/rearrange for smaller screens */
-@media screen and (max-width: 767px) {
+/*@media screen and (max-width: 767px) {*/
     /* Hide captions
     .carousel-caption {
         display: none;
     }
 }
  */
-    .carousel {
-        padding-bottom:50px;
+    /* HomePage row padding */
+    .homeRow00{
+        padding:20px !important;
     }

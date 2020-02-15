@@ -9,7 +9,12 @@
 
 ## CDN's
 
+### CSS
+
 https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+
+
+### JS
 
 https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 
