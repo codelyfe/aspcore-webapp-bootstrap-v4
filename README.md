@@ -1,11 +1,12 @@
 # aspcore-webapp-bootstrap-v4
 
 ## I'll Keep this GIT up to date each day. So get ready to see new content daily.
-### FEB 14 2020
+### FEB 15 2020
 
 ## Features
 1. Dark Theme
-2. Current Bootstrap v4.4.1 and JQuery 3.4.1
+2. Current Bootstrap v4.4.1( https://getbootstrap.com ) and JQuery 3.4.1
+    
 3. Better sample pages
 
 ## Work in progress:
@@ -51,8 +52,13 @@ C:/LOCATION/OF/APP > dotnet run
 2. Project
 3. "Project Name" properties
 4. USE THIS GUIDE TO CONVERT 2.1 to 3.0
+
 https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio
 
-### Bower / NuGet
+### How to use Bower / NuGet
+
+Coming Soon!
+
+### How to create a hidden tor relay so you can host your website on .ONION (TOR BROWSER)
 
 Coming Soon!
