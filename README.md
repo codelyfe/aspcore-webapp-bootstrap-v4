@@ -13,6 +13,8 @@
 
 2. Sample Page Build Out
 
+3. Framework Change 2.1 < 3.0
+
 ## CDN's
 
 ### CSS
@@ -41,3 +43,16 @@ https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 ```
 C:/LOCATION/OF/APP > dotnet run
 ```
+
+### How to change target framework? 2.1 < 3.0 ( Visual Studio 2019 )
+#### Not Recommended ( Be Safe : Back-up first )
+
+1. MAIN MENU
+2. Project
+3. "Project Name" properties
+4. USE THIS GUIDE TO CONVERT 2.1 to 3.0
+https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio
+
+### Bower / NuGet
+
+Coming Soon!
