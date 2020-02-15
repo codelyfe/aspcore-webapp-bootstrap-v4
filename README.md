@@ -17,8 +17,6 @@
 
 2. Sample Page Build Out
 
-3. Framework Change 2.1 < 3.0
-
 ## CDN's
 
 ### CSS
@@ -51,7 +49,7 @@ C:/LOCATION/OF/APP > dotnet run
 ### How to change target framework? 2.1 < 3.0 ( Visual Studio 2019 )
 #### Not Recommended ( Be Safe : Back-up first )
 
-Main Menu > Project > "Project Name" Properties
+Main Menu > Project > "Project Name" Properties ( Recomended to convert 2.1 < 2.2 )
 
 USE THIS GUIDE TO CONVERT 2.1 to 3.0
 
@@ -87,10 +85,11 @@ Coming Soon!
 2. Updated JQuery
 3. New Carousel
 4. Page Containers
-5. Datetime.Now.Year to Footer copyright (This Seemed odd not being here all along?)
+5. @DateTime.Now.Year to footer copyright (This Seemed odd not being here all along?)
 6. Custom CSS
 7. More Page
 8. Dark Theme
+9. Framework 2.2
 
 ## Removed:
 1. Default CSS
