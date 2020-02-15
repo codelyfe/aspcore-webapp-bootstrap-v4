@@ -1,6 +1,12 @@
 # aspcore-webapp-bootstrap-v4
 
 ## I'll Keep this GIT up to date each day. So get ready to see new content daily.
+### FEB 14 2020
+
+## Features
+1. Dark Theme
+2. Current Bootstrap v4.4.1 and JQuery 3.4.1
+3. Better sample pages
 
 ## Work in progress:
 1. Consent For Cookies
