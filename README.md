@@ -10,7 +10,7 @@
     
 3. Better sample pages
 
-4. Razor Theme (OutDated) (Modified by Codelyfe)
+4. .NET Core 3.1
 
 ## Work in progress:
 1. Consent For Cookies
@@ -49,7 +49,7 @@ C:/LOCATION/OF/APP > dotnet run
 ### How to change target framework? 2.1 < 3.0 ( Visual Studio 2019 )
 #### Not Recommended ( Be Safe : Back-up first )
 
-Main Menu > Project > "Project Name" Properties ( Recomended to convert 2.1 < 2.2 )
+Main Menu > Project > "Project Name" Properties ( Recomended to convert 2.1 < 2.2 < 3.1 )
 
 USE THIS GUIDE TO CONVERT 2.1 to 3.0
 
@@ -82,14 +82,9 @@ Coming Soon!
 
 ## Added:
 1. Bootstrap v4
-2. Updated JQuery
-3. New Carousel
-4. Page Containers
-5. @DateTime.Now.Year to footer copyright (This Seemed odd not being here all along?)
-6. Custom CSS
-7. More Page
-8. Dark Theme
-9. Framework 2.2
+2. @DateTime.Now.Year to footer copyright (This Seemed odd not being here all along?)
+3. Custom CSS
+4. Dark Theme
 
 ## Removed:
 1. Default CSS
