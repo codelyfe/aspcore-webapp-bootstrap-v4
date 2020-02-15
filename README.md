@@ -65,7 +65,7 @@ Main Menu > Tools > NuGet Package Manager > Manage NuGet Packages for Solutions
 
 ##### Browse
 
-Search and Install NuGet Packages desired fr your WebApp Project.
+Search and Install NuGet Packages desired for your WebApp Project.
 
 ##### Installed
 
