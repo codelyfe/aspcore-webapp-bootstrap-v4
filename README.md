@@ -71,7 +71,7 @@ Search and Install NuGet Packages desired for your WebApp Project.
 
 Click on each NuGet and set to desired version or uninstall.
 
-##### Updated
+##### Update
 
 Click on each NuGet to update to desired version.
 
@@ -81,3 +81,16 @@ Coming Soon!
 ### How to create a hidden tor relay so you can host your website on .ONION (TOR BROWSER)
 
 Coming Soon!
+
+## Added:
+1. Bootstrap v4
+2. Updated JQuery
+3. New Carousel
+4. Page Containers
+5. Datetime.Now.Year to Footer copyright (This Seemed odd not being here all along?)
+6. Custom CSS
+7. More Page
+8. Dark Theme
+
+## Removed:
+1. Default CSS
