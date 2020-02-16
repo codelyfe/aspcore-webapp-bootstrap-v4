@@ -6,7 +6,7 @@
 ## Features
 1. Dark Theme
 
-2. Current Bootstrap v4.4.1( https://getbootstrap.com ) and JQuery 3.4.1
+2. Current Bootstrap v4.4.1( https://getbootstrap.com ) and JQuery 3.4.1 (https://github.com/jquery/jquery-dist)
     
 3. Better sample pages
 
