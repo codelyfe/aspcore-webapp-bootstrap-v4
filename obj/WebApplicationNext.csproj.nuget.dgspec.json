@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\c#\\source\\repos\\WebApplicationNext\\WebApplicationNext.csproj": {}
+    "F:\\c#\\source\\repos\\aspcore-webapp-bootstrap-v4.git\\trunk\\WebApplicationNext.csproj": {}
   },
   "projects": {
-    "F:\\c#\\source\\repos\\WebApplicationNext\\WebApplicationNext.csproj": {
+    "F:\\c#\\source\\repos\\aspcore-webapp-bootstrap-v4.git\\trunk\\WebApplicationNext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\c#\\source\\repos\\WebApplicationNext\\WebApplicationNext.csproj",
+        "projectUniqueName": "F:\\c#\\source\\repos\\aspcore-webapp-bootstrap-v4.git\\trunk\\WebApplicationNext.csproj",
         "projectName": "WebApplicationNext",
-        "projectPath": "F:\\c#\\source\\repos\\WebApplicationNext\\WebApplicationNext.csproj",
+        "projectPath": "F:\\c#\\source\\repos\\aspcore-webapp-bootstrap-v4.git\\trunk\\WebApplicationNext.csproj",
         "packagesPath": "C:\\Users\\GoatFucker420\\.nuget\\packages\\",
-        "outputPath": "F:\\c#\\source\\repos\\WebApplicationNext\\obj\\",
+        "outputPath": "F:\\c#\\source\\repos\\aspcore-webapp-bootstrap-v4.git\\trunk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft\\Xamarin\\NuGet\\",
